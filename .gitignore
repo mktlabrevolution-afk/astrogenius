@@ -1,1 +1,12 @@
-git add .gitignore
+node_modules/
+.env
+dist/
+build/
+out/
+.nyc_output/
+.DS_Store
+.vscode/
+.netlify/
+coverage/
+npm-debug.log
+yarn-error.log
